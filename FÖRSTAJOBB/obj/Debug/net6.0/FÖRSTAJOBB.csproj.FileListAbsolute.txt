@@ -1,0 +1,15 @@
+C:\Users\henry.gillinger\vis stud\FÖRSTAJOBB\FÖRSTAJOBB\bin\Debug\net6.0\FÖRSTAJOBB.exe
+C:\Users\henry.gillinger\vis stud\FÖRSTAJOBB\FÖRSTAJOBB\bin\Debug\net6.0\FÖRSTAJOBB.deps.json
+C:\Users\henry.gillinger\vis stud\FÖRSTAJOBB\FÖRSTAJOBB\bin\Debug\net6.0\FÖRSTAJOBB.runtimeconfig.json
+C:\Users\henry.gillinger\vis stud\FÖRSTAJOBB\FÖRSTAJOBB\bin\Debug\net6.0\FÖRSTAJOBB.dll
+C:\Users\henry.gillinger\vis stud\FÖRSTAJOBB\FÖRSTAJOBB\bin\Debug\net6.0\FÖRSTAJOBB.pdb
+C:\Users\henry.gillinger\vis stud\FÖRSTAJOBB\FÖRSTAJOBB\obj\Debug\net6.0\FÖRSTAJOBB.csproj.AssemblyReference.cache
+C:\Users\henry.gillinger\vis stud\FÖRSTAJOBB\FÖRSTAJOBB\obj\Debug\net6.0\FÖRSTAJOBB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry.gillinger\vis stud\FÖRSTAJOBB\FÖRSTAJOBB\obj\Debug\net6.0\FÖRSTAJOBB.AssemblyInfoInputs.cache
+C:\Users\henry.gillinger\vis stud\FÖRSTAJOBB\FÖRSTAJOBB\obj\Debug\net6.0\FÖRSTAJOBB.AssemblyInfo.cs
+C:\Users\henry.gillinger\vis stud\FÖRSTAJOBB\FÖRSTAJOBB\obj\Debug\net6.0\FÖRSTAJOBB.csproj.CoreCompileInputs.cache
+C:\Users\henry.gillinger\vis stud\FÖRSTAJOBB\FÖRSTAJOBB\obj\Debug\net6.0\FÖRSTAJOBB.dll
+C:\Users\henry.gillinger\vis stud\FÖRSTAJOBB\FÖRSTAJOBB\obj\Debug\net6.0\refint\FÖRSTAJOBB.dll
+C:\Users\henry.gillinger\vis stud\FÖRSTAJOBB\FÖRSTAJOBB\obj\Debug\net6.0\FÖRSTAJOBB.pdb
+C:\Users\henry.gillinger\vis stud\FÖRSTAJOBB\FÖRSTAJOBB\obj\Debug\net6.0\FÖRSTAJOBB.genruntimeconfig.cache
+C:\Users\henry.gillinger\vis stud\FÖRSTAJOBB\FÖRSTAJOBB\obj\Debug\net6.0\ref\FÖRSTAJOBB.dll
